@@ -4,8 +4,8 @@ from streamlit_echarts import st_echarts #velocímetros
 
 #CONFIGURACION DE LA PÁGINA
 st.set_page_config(
-     page_title = 'DS4B Risk Score Analyzer',
-     page_icon = 'DS4B_Logo_Blanco_Vertical_FB.png', #icono de la pestaña del navegador
+     page_title = 'Risk Score Analyzer',
+     page_icon = 'risk.png', #icono de la pestaña del navegador
      layout = 'wide') #por defecto formato ancho
 
 #SIDEBAR (la imagen a la izq superior + los controles, el boton de "calcular riesgo" no)
