@@ -34,7 +34,7 @@ with st.sidebar:
 
 
 #MAIN
-st.title('RISK SCORE ANALYZER')
+st.title('ABH RISK SCORE ANALYZER')
 
 
 #CALCULAR
